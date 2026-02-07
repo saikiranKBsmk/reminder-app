@@ -1,0 +1,15 @@
+{
+  "database": "postgresql",
+  "database_connection": {
+    "driver": "postgresql+psycopg2",
+    "username": "postgres",
+    "password": "root",
+    "server": "localhost",
+    "port": "5432",
+    "database_name": "reminder_db"
+  },
+  "server_details": {
+    "host": "localhost",
+    "port": "8000"
+  }
+}
